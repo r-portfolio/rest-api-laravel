@@ -19,7 +19,7 @@ Aprenda a Criar REST API utilizando PHP 7 e o Laravel 5.7 aprenda Rotas, Model S
 
 ## Tecnologias stack
 
-![alt text](https://github.com/r-portfolio/rest-api-laravel/master/stack.png)
+![alt text](https://github.com/r-portfolio/rest-api-laravel/blob/main/stack.png)
 
 
 </br>    
